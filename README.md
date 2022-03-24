@@ -1,7 +1,7 @@
 # Repositório de arquivos no INAD Brasil 😊 
 
 Pessoal, aqui serão colocados os arquivos, documentos e artes da campanha do INAD Brasil.
-Para mais informações, veja o site em: http://inadbrasil.com .
+Para mais informações, veja o site em: **http://inadbrasil.com** .
 
 ![INAD 2021](https://github.com/inadbrasil/inad/blob/main/readme-files/github-banner.jpg?raw=true)
 
@@ -67,13 +67,13 @@ Fiquem ligados, aos poucos todos os materiais desde 2010 serão colocados por aq
 
 Por ora temos:
 
-• [Novíssimos materiais do INAD 2021](https://github.com/inadbrasil/inad/tree/main/INAD%202021); 🥳
+• [Novíssimos materiais do INAD Brasil 2021](https://github.com/inadbrasil/inad/tree/main/INAD%202021); 🥳
 
-• [Materiais de 2020](https://github.com/inadbrasil/inad/tree/main/INAD%202020) (são 21 tipos diferentes)  🙌  e
+• [Materiais de INAD Brasil 2020](https://github.com/inadbrasil/inad/tree/main/INAD%202020) (são 21 tipos diferentes)  🙌  e
 
 • **[Todos os cartazes](https://github.com/inadbrasil/inad/tree/main/Cartaz%20%28todos%29)** de 2010 até 2021. 😱 😎
 
 ##
   
 
-#INAD #INADBrasil #som #audição #acústica #fono #fonoaudiologia #saúde #EAC
+**#INAD #INADBrasil #som #audição #acústica #fono #fonoaudiologia #saúde #EAC**
