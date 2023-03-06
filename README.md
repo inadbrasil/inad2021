@@ -69,7 +69,6 @@ Ah pessoal, para completar nosso post, trazemos para vocês mensagem oficial do 
 </div>
 
 ##
-
 ## Novidade! Estamos também no GitHub!
 
 Essa é uma plataforma para compartilhamento de projetos livres (*open-source*). 🤓 Bem, como nosso objetivo é trazer o conhecimento e conscientização para todos, 📚 acreditamos ser um ótimo espaço para que os arquivos do INAD Brasil fiquem hospedados e em dia.  🔖 ⏰
@@ -85,6 +84,4 @@ Por ora temos:
 • **[Todos os cartazes](https://github.com/inadbrasil/inad/tree/main/Cartaz%20%28todos%29)** de 2008 até 2023. 😱 😎
 
 ##
-  
-
 **#INAD #INADBrasil #som #audição #acústica #fono #fonoaudiologia #saúde #EAC**
