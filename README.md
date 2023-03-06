@@ -40,11 +40,12 @@ Recomendamos que todas as atividades sejam virtuais, portanto, as artes da campa
 Siga a gente nas redes sociais e republique nossos materiais.
 
 -   [Instagram](http://www.instagram.com/inad.brasil)
--   [YouTube](https://www.youtube.com/channel/UCDERY4tK1QNJXDU8MiJK5rA)
+-   [YouTube](https://www.youtube.com/@inadbrasil)
 -   [Soundcloud](https://soundcloud.com/inad-brasil)
 -   [Spotify](https://open.spotify.com/show/6uvlvmUAVExun7Z5VZanoZ)
 -   [Facebook](https://facebook.com/inad.brasil)
--   [Github](https://github.com/inadbrasil/inad)
+-   [GitHub](https://github.com/inadbrasil/inad)
+-   [ResearchGate](https://www.researchgate.net/publication/355213575_Dia_Internacional_de_Conscientizacao_Sobre_o_Ruido_-_INAD_Brasil)
 -   [Twitter](https://twitter.com/intent/user?screen_name=INADBrasil)
 
 Ah pessoal, para completar nosso post, trazemos para vocês mensagem oficial do INAD Internacional ([https://noiseawareness.org/](https://noiseawareness.org/)) e a versão traduzida abaixo.
